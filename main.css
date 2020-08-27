@@ -59,7 +59,7 @@ body{
 }
 
 #showcase{
-	background-image:url("../images/test.png");
+	background-image:url("test.png");
 	background-position: center right;
 	min-height:350px;
 	margin-top:0px;
@@ -92,7 +92,7 @@ body{
 
 
 #showcase-1{
-	background-image:url("../images/work.png");
+	background-image:url("work.png");
 	background-position: center right;
 	min-height:200px;
 	margin-bottom:30px;
@@ -134,7 +134,7 @@ body{
 
 
 #showcase-2{
-	background-image:url("../images/utb.png");
+	background-image:url("utb.png");
 	background-position: center right;
 	min-height:200px;
 	margin-bottom:30px;
@@ -152,7 +152,7 @@ body{
 
 
 #showcase-3{
-	background-image:url("../images/cc.png");
+	background-image:url("cc.png");
 	background-position: center right;
 	min-height:200px;
 	margin-bottom:30px;
@@ -170,7 +170,7 @@ body{
 
 
 #showcase-4{
-	background-image:url("../images/letter.png");
+	background-image:url("letter.png");
 	background-position: center right;
 	min-height:200px;
 	margin-bottom:30px;
